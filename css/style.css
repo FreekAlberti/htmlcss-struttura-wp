@@ -19,6 +19,12 @@
   margin: 10px 0;
 }
 
+/* .contenuto::after {
+  content: "";
+  display: block;
+  clear: both;
+} */
+
 .sinistra {
   width: 25%;
   height: 70%;
