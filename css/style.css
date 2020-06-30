@@ -42,13 +42,16 @@
 }
 
 .superiore {
-  height: 45%;
-  background-color: pink
+  height: 42%;
+  background-color: pink;
+  margin-bottom: 3%;
 }
 
 .inferiore {
-  height: 45%;
-  background-color: pink
+  height: 42%;
+  background-color: pink;
+  margin-bottom: 3%;
+
 }
 
 .base {
