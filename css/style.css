@@ -3,3 +3,52 @@
   margin: 0;
   padding: 0;
 }
+
+.titolo {
+  height: 180px;
+  background-color: yellow;
+}
+
+.contenuto {
+  height: 320px;
+  background-color: green;
+}
+
+.contenuto::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.sinistra {
+  height: 70%;
+  background-color: pink;
+  float: left;
+}
+
+.centro {
+  height: 100%;
+  background-color: violet;
+  float: left;
+}
+
+.destra {
+  height: 100%;
+  background-color: orange;
+  float: left;
+}
+
+.superiore {
+  height: 45%;
+  background-color: pink
+}
+
+.inferiore {
+  height: 45%;
+  background-color: pink
+}
+
+.base {
+  height: 100px;
+  background-color: gray;
+}
